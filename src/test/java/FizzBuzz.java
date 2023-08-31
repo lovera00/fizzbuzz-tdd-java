@@ -1,5 +1,5 @@
 public class FizzBuzz {
-    public String convert(int i) {
-        return "1";
+    public String convert(int number) {
+        return Integer.toString(number);
     }
 }

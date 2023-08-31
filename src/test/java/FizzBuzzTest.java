@@ -8,4 +8,9 @@ public class FizzBuzzTest {
         FizzBuzz fizzBuzz = new FizzBuzz();
         assertEquals("1", fizzBuzz.convert(1));
     }
+    @Test
+    public void testNumberIsTwo() {
+        FizzBuzz fizzBuzz = new FizzBuzz();
+        assertEquals("2", fizzBuzz.convert(2));
+    }
 }
