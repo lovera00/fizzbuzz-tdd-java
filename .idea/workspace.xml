@@ -101,12 +101,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693447939609</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add third case">
+      <created>1693448034091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693448034091</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="add second case" />
-    <option name="LAST_COMMIT_MESSAGE" value="add second case" />
+    <MESSAGE value="add third case" />
+    <option name="LAST_COMMIT_MESSAGE" value="add third case" />
   </component>
 </project>
