@@ -13,4 +13,10 @@ public class FizzBuzzTest {
         FizzBuzz fizzBuzz = new FizzBuzz();
         assertEquals("2", fizzBuzz.convert(2));
     }
+    @Test
+    public void testNumberIsThree() {
+        FizzBuzz fizzBuzz = new FizzBuzz();
+        assertEquals("Fizz", fizzBuzz.convert(3));
+    }
+
 }
