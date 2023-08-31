@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e3b1be6-3c77-4f82-a6b3-33b2e42a7603" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" afterDir="false" />
     </list>
@@ -108,13 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693448034091</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add case when number is five">
+      <created>1693448163793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693448163793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="add second case" />
     <MESSAGE value="add third case" />
-    <option name="LAST_COMMIT_MESSAGE" value="add third case" />
+    <MESSAGE value="add case when number is five" />
+    <option name="LAST_COMMIT_MESSAGE" value="add case when number is five" />
   </component>
 </project>
